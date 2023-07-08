@@ -19,7 +19,7 @@ let lefts = 0;
 let ups = 0;
 help = false;
 
-var level = 8;
+var level = 1;
 
 class Player
 {
