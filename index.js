@@ -317,7 +317,7 @@ function LoadLevel(newLevel, resetPlatforms)
     }
     
 }
-LoadLevel(level, true)
+LoadLevel(1, true)
 
 function animate()
 {
